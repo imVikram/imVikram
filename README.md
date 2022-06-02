@@ -2,7 +2,7 @@
 - 👀 I’m interested in React, Javascript, C#, SQL
 - 🌱 I’m currently learning React & .Net Core APIs
 - 💞️ I’m looking to collaborate on Javascript
-- 📫 How to reach me vs03Sep@gmail.com
+- 📫 How to reach me vikramsingh03sep@gmail.com
 
 <!---
 imVikram/imVikram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
