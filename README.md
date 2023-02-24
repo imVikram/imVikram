@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imVikram
-- 👀 I’m interested in React, Javascript, C#, SQL
+- 👀 I’m interested in Go/Golang, React, Javascript, C#, SQL
 - 🌱 I’m currently learning React & .Net Core APIs
 - 💞️ I’m looking to collaborate on Javascript
 - 📫 How to reach me vikramsingh03sep@gmail.com
