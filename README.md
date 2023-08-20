@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imVikram
 - 👀 I’m interested in Go/Golang, React, Javascript, C#, SQL
 - 🌱 I’m currently learning Golang & React 
-- 💞️ I’m looking to collaborate on Golang
+- 💞️ I’m looking to collaborate on Golang/React
 - 📫 How to reach me vikramsingh03sep@gmail.com
 
 <!---
